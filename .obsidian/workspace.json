@@ -11,11 +11,52 @@
             "id": "d8c40a9b54d5fa41",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3783ee41b8a624e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60586de583adaa1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7deb791cb13ed53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge base.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Knowledge base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Knowledge base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Knowledge base.md"
+              }
             }
           }
         ]
@@ -139,6 +184,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8c40a9b54d5fa41",
-  "lastOpenFiles": []
+  "active": "c7deb791cb13ed53",
+  "lastOpenFiles": [
+    "page1.md",
+    "Knowledge base.md",
+    "page2.md",
+    "README.md"
+  ]
 }
